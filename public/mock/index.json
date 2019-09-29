@@ -1,0 +1,88 @@
+{
+	"ret": true,
+	"data": {
+		"city": "北京",
+		"swiperList": [{
+			"id": "0001",
+			"imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/37a42ce34dc16cd43bad17570bf6ab31.jpg_750x200_65d24bd7.jpg"
+		}, {
+			"id": "0002",
+			"imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/31/da037478f37cf202.jpg_750x200_fe28d396.jpg"
+		}, {
+			"id": "0003",
+			"imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/31/da037478f37cf202.jpg_750x200_fe28d396.jpg"
+		}, {
+			"id": "0004",
+			"imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/37a42ce34dc16cd43bad17570bf6ab31.jpg_750x200_65d24bd7.jpg"
+		}],
+		"iconList": [{
+			"id": "0001",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+			"desc": "酒店"
+		}, {
+			"id": "0002",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+			"desc": "机票"
+		}, {
+			"id": "0003",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+			"desc": "火车票"
+		}, {
+			"id": "0004",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+			"desc": "景点门票"
+		}, {
+			"id": "0005",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/inn.png",
+			"desc": "客栈"
+		}, {
+			"id": "0006",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/haiwai.png",
+			"desc": "海外酒店"
+		}, {
+			"id": "0007",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/kezhan.png",
+			"desc": "民宿"
+		}, {
+			"id": "0008",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/group.png",
+			"desc": "特惠酒店"
+		}, {
+			"id": "0009",
+			"imgUrl": "//s.qunarzz.com/homenode/images/touchheader/group.png",
+			"desc": "特惠酒店"
+		}],
+		"recommendList": [{
+			"id": "0001",
+			"imgUrl": "//imgs.qunarzz.com/vs_ceph_vs_tts/6a8cdfc2-01af-44ab-b856-45f8003d8557.jpg_r_480x320x90_f03e827c.jpg",
+			"title": "北京-泰国 7天跟团游",
+			"desc": "泰国◇潮玩曼芭莎|2晚国5+连住海边5星▹沙美岛🏊双园双夜市🔥 1天自由"
+		}, {
+			"id": "0002",
+			"imgUrl": "//imgs.qunarzz.com/p/tts8/1704/6d/6a3a3fe22807af02.jpg_r_390x260x90_a8cc71e0.jpg",
+			"title": "北京-俄罗斯 8天跟团游",
+			"desc": "俄罗斯圣彼得堡-莫斯科-金环-四大庄园8天|海航双点进出，升级高铁，四星住宿"
+		}, {
+			"id": "0003",
+			"imgUrl": "//imgs.qunarzz.com/vs_ceph_vs_tts/d7d2a1a1-7426-47b4-bdfb-f2beceb4c0cf.jpg_r_390x260x90_dc4369cb.jpg",
+			"title": "北京-菲律宾 7天自由行",
+			"desc": "中秋国庆提前购！北京出发长滩岛6-8天+四星阿兰达酒店+接送机+可升级酒店"
+		}],
+		"weekendList": [{
+			"id": "0001",
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1803/68/684c07beee21b37aa3.img.jpg_256x160_ce182822.jpg",
+			"title": "黄山风景区",
+			"desc": "五岳归来不看山，黄山归来不看岳'"
+		}, {
+			"id": "0002",
+			"imgUrl": "//img1.qunarzz.com/sight/p0/1908/4e/4e82efecb2e8ade9a3.img.jpg_256x160_6e5d2993.jpg",
+			"title": "西递村",
+			"desc": "徽派建筑，乡间水墨画"
+		}, {
+			"id": "0003",
+			"imgUrl": "//img1.qunarzz.com/sight/p0/201403/04/4de0f8c4acf3be370f734c58b2da5cfc.jpg_256x160_5d71f6ca.jpg",
+			"title": "天柱山",
+			"desc": "飞瀑流泉，溪涧遍布，山有多高，水有多长"
+		}]
+	}
+}
